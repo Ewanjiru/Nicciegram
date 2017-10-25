@@ -1,0 +1,11 @@
+{
+  "name": "nicciegram",
+  "version": "1.0.0",
+  "description": "My own Instagram",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "",
+  "license": "ISC"
+}
